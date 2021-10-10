@@ -1,7 +1,7 @@
 # World Weather Analysis
 ----
 ### Project Overview - PlanMyTrip
-This project was focused around utilizing API's, to provide data for individuals planning a trip based on specific desired weather criteria.  PlanMyTrip gathered weather data via OpenWeatherAPI, combined with Google Maps API's to provide hotel and travel information. Patrons can utilize PlanMyTrip by inputting a range of desired temperature to generate a list of cities and hotels that meet the criteria.
+####This project was focused around utilizing API's, to provide data for individuals planning a trip based on specific desired weather criteria.  PlanMyTrip gathered weather data via OpenWeatherAPI, combined with Google Maps API's to provide hotel and travel information. Patrons can utilize PlanMyTrip by inputting a range of desired temperature to generate a list of cities and hotels that meet the criteria.
 ----
 ###  Analysis
 The below criteria was used within PlanMyTrip and was determined our pertinent variables.
