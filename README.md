@@ -6,8 +6,8 @@
 ###  Analysis
 The below criteria was used within PlanMyTrip and was determined our pertinent variables.
 - City
-- - Latitude
-- -Longitude
+- Latitude
+- Longitude
 - Max Temp
 - % Humidity
 - % Cloudiness
