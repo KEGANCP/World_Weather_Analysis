@@ -14,7 +14,7 @@ The below criteria was used within PlanMyTrip and was determined our pertinent v
 - Current Weather Description
 ----
 ### Results
-Within the example below, this patron determine the below 4 cities as desirable weather. The app populates the Hotel information, as well as the weather summary within a Google Maps visual.
+#### Within the example below, this patron determined the below 4 cities as desirable weather. The app populates the Hotel information, as well as the weather summary within a Google Maps visual.
 ![This is an image](https://github.com/KEGANCP/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 ----
 With further improvements to the app, we were able to include a recommended travel itinerary, as shown below.
